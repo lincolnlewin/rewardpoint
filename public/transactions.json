@@ -1,0 +1,8 @@
+[
+  { "customerId": 1, "purchaseAmount": 120, "date": "2023-07-02" },
+  { "customerId": 2, "purchaseAmount": 80, "date": "2023-07-03" },
+  { "customerId": 1, "purchaseAmount": 60, "date": "2023-08-05" },
+  { "customerId": 2, "purchaseAmount": 150, "date": "2023-08-15" },
+  { "customerId": 1, "purchaseAmount": 90, "date": "2023-09-10" },
+  { "customerId": 3, "purchaseAmount": 70, "date": "2023-09-20" }
+]
